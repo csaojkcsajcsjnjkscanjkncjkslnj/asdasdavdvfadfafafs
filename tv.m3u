@@ -16,3 +16,19 @@ https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ck.php?id=indosiar
 https://vidsemar.pages.dev/terraluna3/205.mpd
+
+#EXTINF:- 1 tvg-name="MNCTV (RCTI+)" tvg-logo="https://i.imgur.com/CuEkKIL.jpeg" tvg-id="Mnctv.id" group-title="Indonesia Channels", MNCTV (RCTI+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTINF:-1 tvg-name="GTV (RCTI+)" tvg-logo="https://i.imgur.com/V6CUNdE.jpeg" tvg-id="Gtv.id" group-title="Indonesia Channels",GTV (RCTI+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTINF:-1 tvg-name="iNews(RCTI+)" tvg-logo="https://i.imgur.com/Tca6zd5.jpeg" tvg-id="iNews.id" group-title="Indonesia Channels",iNews (RCTI+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#https://inews-cutv.rctiplus.id/inews-sdi.m3u8
